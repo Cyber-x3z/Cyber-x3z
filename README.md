@@ -1,5 +1,5 @@
 <h3 align="center">A passionate CyberSecurity developer from Syria</h3>
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyber-x3z&label=Profile%20views&color=0e75b6&style=flat" alt="cyber-x3z" /> </p>
 
