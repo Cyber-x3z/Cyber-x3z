@@ -1,12 +1,31 @@
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Cyber-x3z&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Cyber-x3z&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyber-x3z&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<h1 align="center">ww ça baise ici?</h1>
 
----
-[![](https://visitcount.itsvg.in/api?id=Cyber-x3z&icon=7&color=6)](https://visitcount.itsvg.in)
+###
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=sql" height="60" alt="sql logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="60" alt="php logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo" />
+</div>
 
+###
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
+</div>
